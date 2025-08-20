@@ -9,3 +9,11 @@
 /dist/
 /**/templated_list
 /**/proj6.x
+# Ignore compiled binaries
+**/proj5.x
+
+# Ignore debug symbol folders
+**/*.dSYM/
+
+# Ignore generated outputs
+**/output*.txt
