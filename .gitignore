@@ -1,0 +1,8 @@
+# C/C++ ignores
+*.o
+*.out
+*.exe
+*.dSYM/
+.DS_Store
+/build/
+/dist/
