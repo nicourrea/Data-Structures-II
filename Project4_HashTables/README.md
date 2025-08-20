@@ -6,8 +6,8 @@ Interactive password server backed by a hash table.
 make
 
 ## Run
-./proj6.x < test1      # or run interactively: ./proj6.x
+./proj5.x < test1      # or run interactively: ./proj6.x
 
 ## Compare output
-./proj6.x < test1 > run_out.txt
+./proj5.x < test1 > run_out.txt
 diff -u outtest1 run_out.txt
