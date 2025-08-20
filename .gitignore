@@ -1,8 +1,10 @@
-# C/C++ ignores
+# C/C++
 *.o
 *.out
 *.exe
+*.a
 *.dSYM/
 .DS_Store
 /build/
 /dist/
+/**/templated_list
